@@ -136,12 +136,30 @@ nav button {
 }
 .section_2 .box_2 div {
   background-color: #ffffff;
-  margin: 50px 50px;
+  padding: 50px 50px;
 }
 .section_2 h1 {
   color: #534297;
   text-align: center;
   padding-bottom: 2rem;
+}
+
+.section_3 {
+  padding: 100px;
+  background-color: #534297;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.section_3 h1 {
+  color: #ffffff;
+}
+.section_3 button {
+  outline: none;
+  border-color: #ffffff;
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 10px 50px;
 }
 
 body {
